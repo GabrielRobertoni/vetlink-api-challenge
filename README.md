@@ -1,5 +1,3 @@
-# vetlink-api-challenge
-
 # VetLink API - Rede Inteligente de Atendimento Veterinário
 
 **VetLink** é uma API REST desenvolvida em **Java com Spring Boot** para o Challenge Clyvo Vet. A plataforma centraliza informações de saúde animal, conectando tutores de pets a uma rede integrada de clínicas veterinárias.
