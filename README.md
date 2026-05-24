@@ -159,6 +159,7 @@ VetLinkApplication.java
 TESTE NA ORDEM DE CLASSES!
 
 ## 👤 Tutores
+<img width="784" height="275" alt="image" src="https://github.com/user-attachments/assets/3e5a3921-738d-45cf-823e-d9706ee8ee13" />
 
 ```http
 GET    /api/v1/tutores
