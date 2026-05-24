@@ -172,6 +172,7 @@ DELETE /api/v1/tutores/{id}
 ---
 
 ## 🐶 Pets
+<img width="787" height="309" alt="image" src="https://github.com/user-attachments/assets/a7860e82-2ef6-47e1-8f8e-de8155e4be1c" />
 
 ```http
 GET    /api/v1/pets
@@ -185,6 +186,7 @@ DELETE /api/v1/pets/{id}
 ---
 
 ## 🏥 Clínicas
+<img width="783" height="282" alt="image" src="https://github.com/user-attachments/assets/e243e649-2a1d-4374-a6f9-65c09c3a5c81" />
 
 ```http
 GET    /api/v1/clinicas
@@ -197,6 +199,7 @@ DELETE /api/v1/clinicas/{id}
 ---
 
 ## 👨‍⚕️ Veterinários
+<img width="784" height="303" alt="image" src="https://github.com/user-attachments/assets/095972a5-9cce-4cb9-83d2-96088ef28a5b" />
 
 ```http
 GET    /api/v1/veterinarios
@@ -210,6 +213,7 @@ DELETE /api/v1/veterinarios/{id}
 ---
 
 ## 📋 Consultas
+<img width="787" height="289" alt="image" src="https://github.com/user-attachments/assets/e7b0f441-f0bb-4559-a88a-1788d8be3243" />
 
 ```http
 GET    /api/v1/consultas
@@ -224,6 +228,7 @@ DELETE /api/v1/consultas/{id}
 ---
 
 ## 🧪 Exames
+<img width="786" height="353" alt="image" src="https://github.com/user-attachments/assets/0a194a14-3698-4a89-b0aa-4e47a398d299" />
 
 ```http
 GET    /api/v1/exames
@@ -237,6 +242,7 @@ DELETE /api/v1/exames/{id}
 ---
 
 ## 💉 Vacinas
+<img width="785" height="382" alt="image" src="https://github.com/user-attachments/assets/e597ad39-a05d-4f90-93ec-de53449637a3" />
 
 ```http
 GET    /api/v1/vacinas
@@ -250,6 +256,7 @@ DELETE /api/v1/vacinas/{id}
 ---
 
 ## 💊 Medicamentos
+<img width="785" height="358" alt="image" src="https://github.com/user-attachments/assets/a8c40990-8d3c-462b-8da9-70a18bd380c2" />
 
 ```http
 GET    /api/v1/medicamentos
@@ -263,6 +270,7 @@ DELETE /api/v1/medicamentos/{id}
 ---
 
 ## 💳 Assinaturas
+<img width="786" height="425" alt="image" src="https://github.com/user-attachments/assets/ccb24305-479b-40c0-b5be-ed6abb647810" />
 
 ```http
 GET    /api/v1/assinaturas
